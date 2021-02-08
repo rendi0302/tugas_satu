@@ -1,2 +1,2 @@
 # tugas_satu
-# folder khusus untuk kelas B
+folder khusus untuk kelas B

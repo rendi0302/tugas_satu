@@ -1,2 +1,2 @@
 # tugas_satu
-# folder khusus untuk kelas NR
+folder khusus untuk kelas NR
